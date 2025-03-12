@@ -1,4 +1,4 @@
-#taking input from keyboard 
+#taking input from keyboard and printing it
 name=input("name: ")
 classs=int(input("class :"))
 marks=float(input("marks :"))
