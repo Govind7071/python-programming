@@ -10,3 +10,7 @@ elif(marks>=60 and marks<70):
     print("D grade")
 else:
     print("E grade")
+    
+var=5
+print(var>3 and var<10)
+print(var>3 or var<4)
