@@ -7,7 +7,17 @@ print('#')
 
 
 
-var=["mango","banana","grapes","apple"]
+'''var=["mango","banana","grapes","apple"]
 print(var[1:3])
 print(var[:1])
-print(var[-4:-1])         
+print(var[-4:-1])         '''
+
+
+message='hello how are you ?'
+print(message)
+messages='what is going on ?'
+print(messages)
+messages='alright'
+print(messages)
+message='hii" how are you ?"'
+print(message)
