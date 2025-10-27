@@ -14,3 +14,10 @@ else:
 var=5
 print(var>3 and var<10)
 print(var>3 or var<4)
+
+
+car = 'subaru'
+print("Is car == 'subaru'? I predict True.")
+print(car == 'subaru')
+print("\nIs car == 'audi'? I predict False.")
+print(car == 'audi')
