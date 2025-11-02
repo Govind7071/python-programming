@@ -1,6 +1,3 @@
 a=int(input("enter a:"))
 b=int(input("enter b:"))
-if(a>=b):
-    print("true")
-else:
-    print("false")
+print(a>=b)
