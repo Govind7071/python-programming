@@ -1,9 +1,9 @@
-def sum(n):
-    sum=0
-    for n in range(1,n+1):
-      sum=sum+n
-    print("sum=",sum)#sum of natural number
-sum(n=int(input("enter a natural number")))
+# def sum(n):
+#     sum=0
+#     for n in range(1,n+1):
+#       sum=sum+n
+#     print("sum=",sum)#sum of natural number
+# sum(n=int(input("enter a natural number")))
 
 
 
