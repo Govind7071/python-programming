@@ -1,3 +1,6 @@
+
+# In multiple inheritance, a child class can inherit from more than one parent class.
+
 class Animal :
     def __init__(self,name) :
         self.name = name
